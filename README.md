@@ -39,10 +39,10 @@ energy-trading-system/
 # 安装Python依赖
 pip install -r requirements.txt
 
-# 安装并启动MongoDB
+# 安装并启动mysql
 # Ubuntu/Debian
-sudo apt-get install mongodb
-sudo systemctl start mongodb
+sudo apt-get install mysql
+sudo systemctl start mysql
 ```
 
 ### 运行系统
