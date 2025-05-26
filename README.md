@@ -12,7 +12,7 @@
 ## 技术栈
 - **前端**: HTML5, CSS3, JavaScript, Bootstrap
 - **后端**: Python, Flask
-- **数据库**: MongoDB
+- **数据库**: MySQL
 - **AI服务**: 集成外部AI助手API
 
 ## 系统架构
