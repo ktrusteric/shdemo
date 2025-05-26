@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>能源交易一体化系统</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <i class="fa fa-bolt"></i> 能源交易一体化系统
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#home">首页</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#features">功能特色</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#services">服务介绍</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#ai-assistants">AI助手</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/login.html">登录</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/status.html">系统状态</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link btn btn-warning text-dark ms-2" href="pages/register.html">注册</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 主页横幅 -->
+    <section id="home" class="hero-section">
+        <div class="container">
+            <div class="row align-items-center min-vh-100">
+                <div class="col-lg-6">
+                    <h1 class="display-4 fw-bold mb-4">智能化能源交易平台</h1>
+                    <p class="lead mb-4">
+                        整合天然气资讯、实时报价、成交数据、研究报告和市场指数，
+                        为您提供一站式能源交易信息服务
+                    </p>
+                    <div class="d-flex gap-3">
+                        <a href="pages/register.html" class="btn btn-primary btn-lg">
+                            <i class="fa fa-user-plus"></i> 免费注册
+                        </a>
+                        <a href="pages/dashboard.html" class="btn btn-outline-primary btn-lg">
+                            <i class="fa fa-dashboard"></i> 进入系统
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <img src="images/energy-trading.svg" alt="能源交易" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 功能特色 -->
+    <section id="features" class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center mb-5">核心功能</h2>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <i class="fa fa-newspaper-o fa-3x text-primary mb-3"></i>
+                            <h4>实时资讯</h4>
+                            <p>24小时不间断更新天然气行业新闻、政策法规、市场动态</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <i class="fa fa-line-chart fa-3x text-success mb-3"></i>
+                            <h4>价格监控</h4>
+                            <p>实时跟踪各地区天然气现货、期货价格，提供历史价格走势分析</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <i class="fa fa-handshake-o fa-3x text-warning mb-3"></i>
+                            <h4>成交数据</h4>
+                            <p>展示最新成交信息，包括买卖双方、成交量、成交价格等关键数据</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <i class="fa fa-file-text-o fa-3x text-info mb-3"></i>
+                            <h4>研究报告</h4>
+                            <p>专业机构发布的行业分析、市场预测、政策解读等深度研究报告</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <i class="fa fa-bar-chart fa-3x text-danger mb-3"></i>
+                            <h4>市场指数</h4>
+                            <p>天然气价格指数、供需指数等关键市场指标的实时跟踪</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <i class="fa fa-robot fa-3x text-purple mb-3"></i>
+                            <h4>AI智能服务</h4>
+                            <p>智能客服、资讯助手、交易助手，为您提供个性化服务</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 服务介绍 -->
+    <section id="services" class="py-5">
+        <div class="container">
+            <h2 class="text-center mb-5">服务体系</h2>
+            <div class="row">
+                <div class="col-lg-6 mb-4">
+                    <h3 class="mb-3"><i class="fa fa-users text-primary"></i> 用户服务</h3>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><i class="fa fa-check text-success"></i> 快速注册，完善用户画像</li>
+                        <li class="mb-2"><i class="fa fa-check text-success"></i> 安全登录，保护账户信息</li>
+                        <li class="mb-2"><i class="fa fa-check text-success"></i> 会员升级，享受专属权益</li>
+                        <li class="mb-2"><i class="fa fa-check text-success"></i> 个性化推荐，精准匹配需求</li>
+                    </ul>
+                </div>
+                <div class="col-lg-6 mb-4">
+                    <h3 class="mb-3"><i class="fa fa-database text-primary"></i> 数据服务</h3>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><i class="fa fa-check text-success"></i> 多源数据整合，信息全面准确</li>
+                        <li class="mb-2"><i class="fa fa-check text-success"></i> 实时数据更新，把握市场脉搏</li>
+                        <li class="mb-2"><i class="fa fa-check text-success"></i> 历史数据查询，支持趋势分析</li>
+                        <li class="mb-2"><i class="fa fa-check text-success"></i> 数据可视化，直观展示信息</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- AI助手展示 -->
+    <section id="ai-assistants" class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center mb-5">智能AI助手</h2>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card h-100 shadow">
+                        <div class="card-header bg-primary text-white">
+                            <h4 class="mb-0"><i class="fa fa-headphones"></i> 客服助手</h4>
+                        </div>
+                        <div class="card-body">
+                            <p>7×24小时在线客服，即时解答您的疑问，提供专业的使用指导和技术支持。</p>
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-arrow-right"></i> 账户问题咨询</li>
+                                <li><i class="fa fa-arrow-right"></i> 功能使用指导</li>
+                                <li><i class="fa fa-arrow-right"></i> 投诉建议处理</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow">
+                        <div class="card-header bg-success text-white">
+                            <h4 class="mb-0"><i class="fa fa-newspaper-o"></i> 资讯助手</h4>
+                        </div>
+                        <div class="card-body">
+                            <p>智能分析您的阅读偏好，推送个性化资讯，帮您快速了解市场动态。</p>
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-arrow-right"></i> 热点新闻推送</li>
+                                <li><i class="fa fa-arrow-right"></i> 行业动态分析</li>
+                                <li><i class="fa fa-arrow-right"></i> 政策解读服务</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow">
+                        <div class="card-header bg-warning text-dark">
+                            <h4 class="mb-0"><i class="fa fa-handshake-o"></i> 交易助手</h4>
+                        </div>
+                        <div class="card-body">
+                            <p>提供交易决策支持，分析市场趋势，协助您制定最优交易策略。</p>
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-arrow-right"></i> 价格走势分析</li>
+                                <li><i class="fa fa-arrow-right"></i> 交易机会提醒</li>
+                                <li><i class="fa fa-arrow-right"></i> 风险评估建议</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center mt-4">
+                <p class="text-muted">所有AI助手均支持用户标签功能，为不同企业提供定制化服务</p>
+                <div class="mt-4">
+                    <h5 class="mb-3">快速体验AI助手</h5>
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="mb-3">
+                                        <label for="userCompany" class="form-label">选择您的身份（可选）</label>
+                                        <select class="form-select" id="userCompany">
+                                            <option value="">普通用户</option>
+                                            <option value="中国石化天然气分公司华南天然气销售中心">中国石化天然气分公司华南天然气销售中心</option>
+                                            <option value="华港燃气集团有限公司">华港燃气集团有限公司</option>
+                                        </select>
+                                    </div>
+                                    <div class="d-flex gap-2 justify-content-center flex-wrap">
+                                        <button class="btn btn-primary btn-sm" onclick="openAiAssistant('customer')">
+                                            <i class="fa fa-headphones"></i> 体验客服助手
+                                        </button>
+                                        <button class="btn btn-success btn-sm" onclick="openAiAssistant('news')">
+                                            <i class="fa fa-newspaper-o"></i> 体验资讯助手
+                                        </button>
+                                        <button class="btn btn-warning btn-sm" onclick="openAiAssistant('trading')">
+                                            <i class="fa fa-handshake-o"></i> 体验交易助手
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 页脚 -->
+    <footer class="bg-dark text-white py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>能源交易一体化系统</h5>
+                    <p class="mb-0">为能源行业提供全方位信息服务解决方案</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p class="mb-0">© 2024 能源交易一体化系统. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html> 

@@ -1,0 +1,367 @@
+2025-05-26 18:21:09,600 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:21:09,600 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:21:09,738 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:21:09,738 - __main__ - INFO - 创建上传目录: /root/energy-trading-system/backend/uploads
+2025-05-26 18:21:09,754 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.16.2:5000
+2025-05-26 18:21:09,754 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 18:21:09,755 - werkzeug - INFO -  * Restarting with stat
+2025-05-26 18:21:09,929 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:21:09,929 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:21:09,933 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:21:09,944 - werkzeug - WARNING -  * Debugger is active!
+2025-05-26 18:21:10,034 - werkzeug - INFO -  * Debugger PIN: 427-084-096
+2025-05-26 18:26:28,904 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:26:28,905 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:26:28,909 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:26:28,924 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.16.2:5000
+2025-05-26 18:26:28,924 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 18:26:28,925 - werkzeug - INFO -  * Restarting with stat
+2025-05-26 18:26:29,101 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:26:29,101 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:26:29,106 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:26:29,116 - werkzeug - WARNING -  * Debugger is active!
+2025-05-26 18:26:29,116 - werkzeug - INFO -  * Debugger PIN: 427-084-096
+2025-05-26 18:26:40,951 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:26:40] "GET /?vscodeBrowserReqId=1748255122177 HTTP/1.1" 200 -
+2025-05-26 18:26:47,893 - werkzeug - INFO - 183.192.232.23 - - [26/May/2025 18:26:47] "GET / HTTP/1.1" 200 -
+2025-05-26 18:26:48,593 - werkzeug - INFO - 183.192.232.23 - - [26/May/2025 18:26:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 18:27:29,628 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:27:29] "[33mGET /inxex.html?vscodeBrowserReqId=1748255170855 HTTP/1.1[0m" 404 -
+2025-05-26 18:27:46,811 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:27:46] "[33mGET /index.html?vscodeBrowserReqId=1748255188038 HTTP/1.1[0m" 404 -
+2025-05-26 18:28:28,354 - werkzeug - INFO -  * Detected change in '/root/energy-trading-system/backend/app.py', reloading
+2025-05-26 18:28:28,749 - werkzeug - INFO -  * Restarting with stat
+2025-05-26 18:28:28,921 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:28:28,921 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:28:28,927 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:28:28,942 - werkzeug - WARNING -  * Debugger is active!
+2025-05-26 18:28:28,942 - werkzeug - INFO -  * Debugger PIN: 427-084-096
+2025-05-26 18:28:35,960 - werkzeug - INFO -  * Detected change in '/root/energy-trading-system/backend/app.py', reloading
+2025-05-26 18:28:36,474 - werkzeug - INFO -  * Restarting with stat
+2025-05-26 18:28:36,647 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:28:36,648 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:28:36,652 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:28:36,667 - werkzeug - WARNING -  * Debugger is active!
+2025-05-26 18:28:36,668 - werkzeug - INFO -  * Debugger PIN: 427-084-096
+2025-05-26 18:30:01,082 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:01] "GET /?vscodeBrowserReqId=1748255322298 HTTP/1.1" 200 -
+2025-05-26 18:30:01,175 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:01] "GET /css/style.css HTTP/1.1" 200 -
+2025-05-26 18:30:01,231 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:01] "[33mGET /images/energy-trading.svg HTTP/1.1[0m" 404 -
+2025-05-26 18:30:02,134 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:02] "GET /js/main.js HTTP/1.1" 200 -
+2025-05-26 18:30:06,394 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:06] "GET /pages/dashboard.html HTTP/1.1" 200 -
+2025-05-26 18:30:06,449 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:06] "GET /css/dashboard.css HTTP/1.1" 200 -
+2025-05-26 18:30:06,450 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:06] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:30:06,456 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:06] "GET /js/dashboard.js HTTP/1.1" 200 -
+2025-05-26 18:30:06,457 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:06] "GET /js/config.js HTTP/1.1" 200 -
+2025-05-26 18:30:06,512 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:06] "GET /pages/login.html HTTP/1.1" 200 -
+2025-05-26 18:30:06,583 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:06] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:30:06,583 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:06] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:30:06,590 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:06] "GET /js/login.js HTTP/1.1" 200 -
+2025-05-26 18:30:20,300 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:20] "GET /index.html HTTP/1.1" 200 -
+2025-05-26 18:30:20,381 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:20] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:30:20,382 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:20] "[36mGET /js/main.js HTTP/1.1[0m" 304 -
+2025-05-26 18:30:20,389 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:20] "[33mGET /images/energy-trading.svg HTTP/1.1[0m" 404 -
+2025-05-26 18:30:48,996 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:48] "[36mGET /pages/login.html HTTP/1.1[0m" 304 -
+2025-05-26 18:30:49,094 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:49] "[36mGET /js/login.js HTTP/1.1[0m" 304 -
+2025-05-26 18:30:49,095 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:49] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:30:49,100 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:49] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:30:51,487 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:51] "GET /pages/register.html HTTP/1.1" 200 -
+2025-05-26 18:30:51,546 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:51] "GET /js/register.js HTTP/1.1" 200 -
+2025-05-26 18:30:51,554 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:51] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:30:51,555 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:51] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:30:51,652 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:51] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:30:51,741 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:30:51] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:31:19,177 - services.user_service - INFO - 新用户注册成功: ericling
+2025-05-26 18:31:19,177 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:19] "[35m[1mPOST /api/auth/register HTTP/1.1[0m" 201 -
+2025-05-26 18:31:22,220 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:22] "[36mGET /pages/login.html HTTP/1.1[0m" 304 -
+2025-05-26 18:31:22,269 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:22] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:31:22,278 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:22] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:31:22,279 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:22] "[36mGET /js/login.js HTTP/1.1[0m" 304 -
+2025-05-26 18:31:30,435 - services.user_service - INFO - 用户登录成功: ericling
+2025-05-26 18:31:30,436 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:30] "POST /api/auth/login HTTP/1.1" 200 -
+2025-05-26 18:31:32,017 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "[36mGET /pages/dashboard.html HTTP/1.1[0m" 304 -
+2025-05-26 18:31:32,058 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:31:32,063 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "[36mGET /css/dashboard.css HTTP/1.1[0m" 304 -
+2025-05-26 18:31:32,067 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "[36mGET /js/dashboard.js HTTP/1.1[0m" 304 -
+2025-05-26 18:31:32,068 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:31:32,167 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:31:32,179 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "GET /api/recommendation/personalized HTTP/1.1" 200 -
+2025-05-26 18:31:32,288 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:31:32,369 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:31:32,477 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:31:32,477 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:32] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:31:44,678 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:44] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:31:44,773 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:31:44,774 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:44] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:31:48,277 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:48] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:31:48,376 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:48] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:31:48,458 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:48] "GET /api/energy/prices?days=7 HTTP/1.1" 200 -
+2025-05-26 18:31:48,596 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:31:48,596 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:48] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:31:51,605 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:51] "GET /api/energy/prices?days=7&product_type=管道天然气 HTTP/1.1" 200 -
+2025-05-26 18:31:52,660 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:52] "GET /api/energy/prices?days=7&product_type=压缩天然气(CNG) HTTP/1.1" 200 -
+2025-05-26 18:31:53,665 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:53] "GET /api/energy/prices?days=7&product_type=液化天然气(LNG) HTTP/1.1" 200 -
+2025-05-26 18:31:54,557 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:54] "GET /api/energy/prices?days=7&product_type=液化天然气(LNG)&region=深圳 HTTP/1.1" 200 -
+2025-05-26 18:31:56,618 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:31:56] "GET /api/energy/prices?days=7&region=深圳 HTTP/1.1" 200 -
+2025-05-26 18:32:02,482 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:02] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:32:02,561 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:02] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:32:02,648 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:02] "GET /api/energy/prices?days=7 HTTP/1.1" 200 -
+2025-05-26 18:32:02,810 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:02,811 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:02] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:32:03,077 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:03] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:32:03,134 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:03,134 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:03] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:32:04,642 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:04] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:32:04,720 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:04] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:32:04,867 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:04] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:32:04,945 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:04,945 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:04] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:32:30,453 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:30] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:32:30,549 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:30] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:32:30,628 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:30] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:32:30,758 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:30,759 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:30] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:32:36,579 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:36] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:32:36,660 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:36] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:32:36,799 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:36] "GET /api/energy/prices?days=7 HTTP/1.1" 200 -
+2025-05-26 18:32:36,959 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:36,959 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:36] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:32:38,443 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:38] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:32:38,545 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:38] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:32:38,665 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:38] "GET /api/energy/prices?days=7 HTTP/1.1" 200 -
+2025-05-26 18:32:38,702 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:38] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:32:38,738 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:38,738 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:38] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:32:38,781 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:38,781 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:38] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:32:38,929 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:38] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:32:39,007 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:39] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:32:39,164 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:39] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:32:39,229 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:39,230 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:39] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:32:44,012 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:44] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:32:44,109 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:44] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:32:44,185 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:44] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:32:44,314 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:44,315 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:44] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:32:53,917 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:53] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:32:54,055 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:32:54,055 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:32:54] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:33:05,056 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:05] "GET /health HTTP/1.1" 200 -
+2025-05-26 18:33:08,274 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:08] "GET / HTTP/1.1" 200 -
+2025-05-26 18:33:08,327 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:08] "GET /css/style.css HTTP/1.1" 200 -
+2025-05-26 18:33:08,386 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:08] "[33mGET /images/energy-trading.svg HTTP/1.1[0m" 404 -
+2025-05-26 18:33:08,584 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:08] "GET /js/main.js HTTP/1.1" 200 -
+2025-05-26 18:33:09,687 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 18:33:16,081 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:16] "GET /pages/login.html HTTP/1.1" 200 -
+2025-05-26 18:33:16,147 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:16] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:33:16,175 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:16] "GET /js/config.js HTTP/1.1" 200 -
+2025-05-26 18:33:16,185 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:16] "GET /js/login.js HTTP/1.1" 200 -
+2025-05-26 18:33:25,775 - services.user_service - INFO - 用户登录成功: ericling
+2025-05-26 18:33:25,775 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:25] "POST /api/auth/login HTTP/1.1" 200 -
+2025-05-26 18:33:27,386 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "GET /pages/dashboard.html HTTP/1.1" 200 -
+2025-05-26 18:33:27,443 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "GET /css/dashboard.css HTTP/1.1" 200 -
+2025-05-26 18:33:27,475 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "GET /js/dashboard.js HTTP/1.1" 200 -
+2025-05-26 18:33:27,480 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:33:27,487 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:33:27,584 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "GET /api/recommendation/personalized HTTP/1.1" 200 -
+2025-05-26 18:33:27,592 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:33:27,748 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:33:27,829 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:33:27,975 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:33:27,975 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:27] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:33:31,318 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:31] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:33:31,409 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:33:31,410 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:31] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:33:43,249 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:43] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:33:43,330 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:43] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:33:43,430 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:43] "GET /api/energy/prices?days=7 HTTP/1.1" 200 -
+2025-05-26 18:33:43,508 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:33:43,508 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:43] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:33:55,380 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:55] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:33:55,481 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:55] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:33:55,560 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:55] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:33:55,703 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:33:55,703 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:33:55] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:34:08,564 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:08] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:34:08,644 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:34:08,645 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:08] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:34:11,407 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:34:11,408 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:11] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:34:13,986 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:34:13,987 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:13] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:34:15,893 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:34:15,894 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:15] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:34:28,774 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:28] "[31m[1mGET /api/energy/news?limit=3 HTTP/1.1[0m" 401 -
+2025-05-26 18:34:32,047 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:32] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-26 18:34:32,075 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:32] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:34:32,119 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:32] "[33mGET /images/energy-trading.svg HTTP/1.1[0m" 404 -
+2025-05-26 18:34:32,327 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:32] "[36mGET /js/main.js HTTP/1.1[0m" 304 -
+2025-05-26 18:34:38,789 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:38] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:34:43,238 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:43] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-26 18:34:43,267 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:43] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:34:43,350 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:43] "[33mGET /images/energy-trading.svg HTTP/1.1[0m" 404 -
+2025-05-26 18:34:43,577 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:34:43] "[36mGET /js/main.js HTTP/1.1[0m" 304 -
+2025-05-26 18:35:07,486 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:07] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:35:07,565 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:07] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:35:07,663 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:07] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:35:07,775 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:35:07,775 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:07] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:35:14,396 - utils.database - INFO - MongoDB连接已关闭
+2025-05-26 18:35:14,610 - utils.database - INFO - MongoDB连接已关闭
+2025-05-26 18:35:16,857 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:35:16,857 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:35:16,862 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:35:16,872 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.16.2:5000
+2025-05-26 18:35:16,872 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 18:35:16,873 - werkzeug - INFO -  * Restarting with stat
+2025-05-26 18:35:17,044 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:35:17,044 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:35:17,049 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:35:17,059 - werkzeug - WARNING -  * Debugger is active!
+2025-05-26 18:35:17,059 - werkzeug - INFO -  * Debugger PIN: 427-084-096
+2025-05-26 18:35:18,660 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:18] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-26 18:35:18,708 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:18] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:35:18,743 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:18] "[33mGET /images/energy-trading.svg HTTP/1.1[0m" 404 -
+2025-05-26 18:35:18,971 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:18] "[36mGET /js/main.js HTTP/1.1[0m" 304 -
+2025-05-26 18:35:20,259 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "[36mGET /pages/dashboard.html HTTP/1.1[0m" 304 -
+2025-05-26 18:35:20,329 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:35:20,363 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "[36mGET /css/dashboard.css HTTP/1.1[0m" 304 -
+2025-05-26 18:35:20,372 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:35:20,373 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "[36mGET /js/dashboard.js HTTP/1.1[0m" 304 -
+2025-05-26 18:35:20,518 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:35:20,518 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "GET /api/recommendation/personalized HTTP/1.1" 200 -
+2025-05-26 18:35:20,722 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:35:20,852 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:35:20,987 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:35:20,987 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:20] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:35:22,144 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:22] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:35:22,251 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:35:22,251 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:22] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:35:22,890 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:22] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:35:22,970 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:22] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:35:23,103 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:23] "GET /api/energy/prices?days=7 HTTP/1.1" 200 -
+2025-05-26 18:35:23,154 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:35:23,154 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:23] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:35:26,847 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:26] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:35:26,928 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:26] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:35:27,012 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:27] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:35:27,096 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:35:27,096 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:35:27] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:36:02,056 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:02] "GET /pages/status.html HTTP/1.1" 200 -
+2025-05-26 18:36:02,128 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:02] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:36:03,660 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:03] "GET /health HTTP/1.1" 200 -
+2025-05-26 18:36:03,661 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:03] "[31m[1mGET /api/energy/news?limit=1 HTTP/1.1[0m" 401 -
+2025-05-26 18:36:03,668 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:03] "[31m[1mGET /api/energy/news?limit=5 HTTP/1.1[0m" 401 -
+2025-05-26 18:36:03,759 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:03] "[31m[1mGET /api/energy/prices?limit=1 HTTP/1.1[0m" 401 -
+2025-05-26 18:36:03,768 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:03] "[31m[1mGET /api/energy/prices/latest HTTP/1.1[0m" 401 -
+2025-05-26 18:36:03,847 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:03] "[31m[1mGET /api/energy/reports?limit=1 HTTP/1.1[0m" 401 -
+2025-05-26 18:36:03,966 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:03] "[31m[1mGET /api/energy/deals?limit=1 HTTP/1.1[0m" 401 -
+2025-05-26 18:36:10,666 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:10] "GET /health HTTP/1.1" 200 -
+2025-05-26 18:36:10,762 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:10] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:36:10,837 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:10] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:36:10,967 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:10] "[31m[1mGET /api/energy/news?limit=3 HTTP/1.1[0m" 401 -
+2025-05-26 18:36:11,103 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:11] "[31m[1mGET /api/energy/prices?limit=3 HTTP/1.1[0m" 401 -
+2025-05-26 18:36:11,182 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:11] "[31m[1mGET /api/energy/prices/latest HTTP/1.1[0m" 401 -
+2025-05-26 18:36:17,038 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:17] "GET /index.html HTTP/1.1" 200 -
+2025-05-26 18:36:17,105 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:17] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:36:17,159 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:17] "[36mGET /js/main.js HTTP/1.1[0m" 304 -
+2025-05-26 18:36:17,168 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:17] "[33mGET /images/energy-trading.svg HTTP/1.1[0m" 404 -
+2025-05-26 18:36:18,295 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "[36mGET /pages/dashboard.html HTTP/1.1[0m" 304 -
+2025-05-26 18:36:18,343 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:36:18,377 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:36:18,383 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "[36mGET /css/dashboard.css HTTP/1.1[0m" 304 -
+2025-05-26 18:36:18,385 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "[36mGET /js/dashboard.js HTTP/1.1[0m" 304 -
+2025-05-26 18:36:18,461 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:36:18,470 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "GET /api/recommendation/personalized HTTP/1.1" 200 -
+2025-05-26 18:36:18,549 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:36:18,629 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:36:18,763 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:36:18,764 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:36:18] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:37:03,283 - utils.database - INFO - MongoDB连接已关闭
+2025-05-26 18:37:03,535 - utils.database - INFO - MongoDB连接已关闭
+2025-05-26 18:37:45,597 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:37:45,598 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:37:45,604 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:37:45,620 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.16.2:5000
+2025-05-26 18:37:45,620 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 18:37:45,620 - werkzeug - INFO -  * Restarting with stat
+2025-05-26 18:37:45,794 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:37:45,794 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:37:45,798 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:37:45,808 - werkzeug - WARNING -  * Debugger is active!
+2025-05-26 18:37:45,809 - werkzeug - INFO -  * Debugger PIN: 427-084-096
+2025-05-26 18:38:31,694 - utils.database - INFO - 成功连接到MongoDB数据库: energy_trading_db
+2025-05-26 18:38:31,694 - __main__ - INFO - 数据库连接成功
+2025-05-26 18:38:31,698 - utils.database - INFO - 数据库索引创建成功
+2025-05-26 18:39:06,849 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:06] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:39:06,932 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:39:06,933 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:06] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:39:13,990 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:13] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:39:14,095 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:39:14,095 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:14] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:39:14,216 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:14] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:39:14,306 - services.user_service - INFO - 用户行为记录成功: 683442f758416c03bc88a4d4, 类型: view
+2025-05-26 18:39:14,307 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:14] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:39:16,062 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:16] "[36mGET /pages/login.html HTTP/1.1[0m" 304 -
+2025-05-26 18:39:16,109 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:16] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:39:16,143 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:16] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:39:16,151 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:16] "[36mGET /js/login.js HTTP/1.1[0m" 304 -
+2025-05-26 18:39:25,967 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:25] "GET /pages/register.html HTTP/1.1" 200 -
+2025-05-26 18:39:26,037 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:26] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:39:26,072 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:26] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:39:26,081 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:26] "GET /js/register.js HTTP/1.1" 200 -
+2025-05-26 18:39:26,179 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:26] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:39:26,268 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:26] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:39:49,720 - services.user_service - INFO - 新用户注册成功: cooper
+2025-05-26 18:39:49,721 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:49] "[35m[1mPOST /api/auth/register HTTP/1.1[0m" 201 -
+2025-05-26 18:39:52,776 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:52] "[36mGET /pages/login.html HTTP/1.1[0m" 304 -
+2025-05-26 18:39:52,824 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:52] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:39:52,869 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:52] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:39:52,876 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:39:52] "[36mGET /js/login.js HTTP/1.1[0m" 304 -
+2025-05-26 18:40:02,537 - services.user_service - INFO - 用户登录成功: cooper
+2025-05-26 18:40:02,538 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:02] "POST /api/auth/login HTTP/1.1" 200 -
+2025-05-26 18:40:04,114 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "[36mGET /pages/dashboard.html HTTP/1.1[0m" 304 -
+2025-05-26 18:40:04,166 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:40:04,211 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "[36mGET /js/dashboard.js HTTP/1.1[0m" 304 -
+2025-05-26 18:40:04,217 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:40:04,219 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "[36mGET /css/dashboard.css HTTP/1.1[0m" 304 -
+2025-05-26 18:40:04,321 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "GET /api/recommendation/personalized HTTP/1.1" 200 -
+2025-05-26 18:40:04,329 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "GET /api/energy/news?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:40:04,495 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "GET /api/energy/prices/latest HTTP/1.1" 200 -
+2025-05-26 18:40:04,595 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "GET /api/energy/reports?limit=1 HTTP/1.1" 200 -
+2025-05-26 18:40:04,680 - services.user_service - INFO - 用户行为记录成功: 683444f546b5f76652d1f064, 类型: view
+2025-05-26 18:40:04,680 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:04] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:40:12,681 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:12] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:40:12,763 - services.user_service - INFO - 用户行为记录成功: 683444f546b5f76652d1f064, 类型: view
+2025-05-26 18:40:12,763 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:12] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:40:14,039 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:14] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:40:14,132 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:14] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:40:14,216 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:14] "GET /api/energy/prices?days=7 HTTP/1.1" 200 -
+2025-05-26 18:40:14,299 - services.user_service - INFO - 用户行为记录成功: 683444f546b5f76652d1f064, 类型: view
+2025-05-26 18:40:14,299 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:14] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:40:14,814 - werkzeug - INFO - 157.55.39.223 - - [26/May/2025 18:40:14] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-05-26 18:40:15,953 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:15] "GET /api/energy/news?limit=20 HTTP/1.1" 200 -
+2025-05-26 18:40:16,054 - services.user_service - INFO - 用户行为记录成功: 683444f546b5f76652d1f064, 类型: view
+2025-05-26 18:40:16,054 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:16] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:40:16,662 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:16] "GET /api/auth/trading-products HTTP/1.1" 200 -
+2025-05-26 18:40:16,743 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:16] "GET /api/auth/regions HTTP/1.1" 200 -
+2025-05-26 18:40:16,838 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:16] "GET /api/energy/prices?days=7 HTTP/1.1" 200 -
+2025-05-26 18:40:16,965 - services.user_service - INFO - 用户行为记录成功: 683444f546b5f76652d1f064, 类型: view
+2025-05-26 18:40:16,965 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:16] "[35m[1mPOST /api/user/behavior HTTP/1.1[0m" 201 -
+2025-05-26 18:40:20,717 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:20] "[36mGET /pages/login.html HTTP/1.1[0m" 304 -
+2025-05-26 18:40:20,769 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:20] "[36mGET /css/style.css HTTP/1.1[0m" 304 -
+2025-05-26 18:40:20,818 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:20] "[36mGET /js/config.js HTTP/1.1[0m" 304 -
+2025-05-26 18:40:20,827 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 18:40:20] "[36mGET /js/login.js HTTP/1.1[0m" 304 -
+2025-05-26 18:40:24,789 - werkzeug - INFO - 40.77.167.241 - - [26/May/2025 18:40:24] "GET / HTTP/1.1" 200 -
+2025-05-26 18:40:44,473 - werkzeug - INFO - 40.77.190.56 - - [26/May/2025 18:40:44] "GET /css/style.css HTTP/1.1" 200 -
+2025-05-26 18:40:44,489 - werkzeug - INFO - 40.77.189.236 - - [26/May/2025 18:40:44] "[33mGET /images/energy-trading.svg HTTP/1.1[0m" 404 -
+2025-05-26 18:40:44,507 - werkzeug - INFO - 40.77.189.46 - - [26/May/2025 18:40:44] "GET /js/main.js HTTP/1.1" 200 -
